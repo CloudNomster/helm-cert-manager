@@ -4,6 +4,7 @@
 
 - For domain "*.maximillian.se
 - ClusterIssuers "letsencrypt-staging" and "letsencrypt-prod"
+- Both uses Cloudflare for verification
 
 ## Staging and testing certs
 
