@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: Cert manager
   annotations:
-    github.com/project-slug: schabo/cert-manager
+    github.com/project-slug: schabo/helm-cert-manager
     backstage.io/techdocs-ref: dir:.
     argocd/app-name: cert-manager
   links:
