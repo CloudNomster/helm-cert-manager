@@ -1,0 +1,22 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Cert manager
+  annotations:
+    github.com/project-slug: schabo/cert-manager
+    backstage.io/techdocs-ref: dir:.
+    argocd/app-name: cert-manager
+  links:
+    - url: https://github.com/schabo/helm-cert-manager
+      title: Cert Manager repository
+      icon: github
+      type: Code
+    - url: https://cert-manager.io/
+      title: Cert Manager website
+      icon: docs
+      type: docs
+
+spec:
+  type: code
+  owner: schabo
+  lifecycle: testing
