@@ -9,5 +9,5 @@ deprecated: false
 dependencies:
   - name: cert-manager
     version: v1.15.3
-    repository: https://charts.jetstack.io/cert-manager
+    repository: https://charts.jetstack.io
 
