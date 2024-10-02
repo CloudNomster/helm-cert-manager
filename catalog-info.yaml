@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: cert-manager
+  description: Cert manager
   annotations:
     github.com/project-slug: schabo/helm-cert-manager
     backstage.io/techdocs-ref: dir:.
@@ -15,6 +16,9 @@ metadata:
       title: Cert Manager website
       icon: docs
       type: docs
+  tags:
+    - certificate
+    - cert-manager
 
 spec:
   type: code
