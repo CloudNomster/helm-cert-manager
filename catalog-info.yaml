@@ -6,9 +6,10 @@ metadata:
   description: Cert manager
   annotations:
     github.com/project-slug: schabo/helm-cert-manager
-    backstage.io/techdocs-ref: dir:.
     argocd/app-name: cert-manager
+    backstage.io/techdocs-ref: dir:.
     backstage.io/kubernetes-label-selector: 'app=cert-manager'
+    backstage.io/kubernetes-id: netes
   links:
     - url: https://github.com/schabo/helm-cert-manager
       title: Cert Manager repository
