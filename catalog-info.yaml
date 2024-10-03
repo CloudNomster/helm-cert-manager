@@ -1,3 +1,4 @@
+---
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
@@ -25,3 +26,4 @@ spec:
   type: code
   owner: schabo
   lifecycle: testing
+
