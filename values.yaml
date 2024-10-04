@@ -1,7 +1,7 @@
 cert-manager:
   global:
     commonLabels:
-      - backstage.io/kubernetes-id: netes
+      backstage.io/kubernetes-id: netes
   crds:
     enabled: true
     keep: true
