@@ -25,5 +25,5 @@ metadata:
 spec:
   type: code
   owner: schabo
-  lifecycle: testing
+  lifecycle: production
 
