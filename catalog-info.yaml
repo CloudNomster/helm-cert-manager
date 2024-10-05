@@ -9,7 +9,7 @@ metadata:
     argocd/app-name: cert-manager
     backstage.io/techdocs-ref: dir:.
     backstage.io/kubernetes-label-selector: 'app=cert-manager'
-    backstage.io/kubernetes-id: netes
+    backstage.io/kubernetes-id: cert-manager
   links:
     - url: https://github.com/schabo/helm-cert-manager
       title: Cert Manager repository
