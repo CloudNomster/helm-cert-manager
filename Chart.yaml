@@ -1,7 +1,7 @@
 apiVersion: v2
 name: cert-manager
 description: A Helm chart for Kubernetes
-home: https://github.com/Schabo/helm-cert-manager
+home: https://github.com/CloudNomster/helm-cert-manager
 type: application
 version: 0.1.0
 deprecated: false
