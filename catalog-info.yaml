@@ -5,13 +5,12 @@ metadata:
   name: cert-manager
   description: Cert manager
   annotations:
-    github.com/project-slug: schabo/helm-cert-manager
+    github.com/project-slug: CloudNomster/helm-cert-manager
     argocd/app-name: cert-manager
     backstage.io/techdocs-ref: dir:.
-    backstage.io/kubernetes-label-selector: 'app=cert-manager'
 
   links:
-    - url: https://github.com/schabo/helm-cert-manager
+    - url: https://github.com/CloudNomster/helm-cert-manager
       title: Cert Manager repository
       icon: github
       type: Code
@@ -25,6 +24,6 @@ metadata:
 
 spec:
   type: code
-  owner: schabo
+  owner: group:team-nomster
   lifecycle: production
 
