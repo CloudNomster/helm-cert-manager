@@ -7,8 +7,8 @@ metadata:
   annotations:
     github.com/project-slug: CloudNomster/helm-cert-manager
     argocd/app-name: cert-manager
-    backstage.io/kubernetes-id: 'cert-manager'
-    backstage.io/kubernetes-label-selector: 'app=cert-manager'
+    # backstage.io/kubernetes-id: 'cert-manager'
+    # backstage.io/kubernetes-label-selector: 'app=cert-manager'
     # backstage.io/kubernetes-namespace: cert-manager
     # backstage.io/techdocs-ref: dir:.
 
