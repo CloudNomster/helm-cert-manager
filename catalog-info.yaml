@@ -2,7 +2,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: cert-manager
+  name: certmanager
   description: Cert manager
   annotations:
     github.com/project-slug: CloudNomster/helm-cert-manager
