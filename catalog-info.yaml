@@ -26,7 +26,7 @@ metadata:
     - cert-manager
 
 spec:
-  type: code
+  type: service
   owner: group:team-nomster
   lifecycle: production
 
